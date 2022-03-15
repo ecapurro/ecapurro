@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuel Capurro</h1>
 <h3 align="center">A passionate VueJS developer and IT Project Manager from Argentina</h3>
 
-- 🔭 I’m currently working on **dash**
+- 🔭 I’m currently working on  [dash](https//emanuelcapurro.com)
 
 - 🌱 I’m currently learning **Vuejs, Nuxt, JS/ES6, PWA**
 
